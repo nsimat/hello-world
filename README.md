@@ -1,6 +1,6 @@
 # hello-world
 This is my first repository in GitHub.
 
-Hi, Michel!
+Hi, my fellow developers!
 
-This my first writting in GitHub. I hope I will enjoy using GitHub a lot.
+This is my first writting in GitHub. I hope I will enjoy using GitHub a lot.
